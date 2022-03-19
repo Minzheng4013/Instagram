@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1165" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.14175724637681159" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/fragment_compose.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_posts.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.3023391723632812" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.165" />
         <entry key="app/src/main/res/xml/fileprovider.xml" value="0.14175724637681159" />
       </map>
     </option>
@@ -15,5 +23,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
